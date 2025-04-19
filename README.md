@@ -2,7 +2,7 @@
 
 ## [Live Preview](https://abuanwar072.github.io/Flutter-Responsive-Admin-Panel-or-Dashboard/#/)
 
-I've created a step-by-step video tutorial to guide you through the process of building this responsive admin panel. **[Watch it on YouTube](https://youtu.be/_uOgXpEHNbc)**
+
 
 ### Checkout [Serverpod.dev](https://cutt.ly/Per1Z7ri) - The Flutter Backend
 
